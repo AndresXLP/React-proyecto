@@ -4,7 +4,6 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import App from './App';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'react-credit-cards/es/styles-compiled.css';
 import { Provider } from 'react-redux';
 import store from './store';
 
